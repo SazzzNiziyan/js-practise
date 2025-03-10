@@ -1,0 +1,5 @@
+console.groupCollapsed("ajj ka hisab")
+console.log("chai")
+console.log("biscuit")
+console.log("bread")
+console.groupEnd()
